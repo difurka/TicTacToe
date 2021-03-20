@@ -11,17 +11,17 @@ The first player that puts 3 X's or 3 O's in a straight line (including diagonal
 
 # Example:
 
----------
-|       |
-|       |
-|       |
----------
+---------\n
+|       |\n
+|       |\n
+|       |\n
+---------\n
 Enter the coordinates: 2 2
----------
-|       |
-|   X   |
-|       |
----------
+---------\n
+|       |\n
+|   X   |\n
+|       |\n
+---------\n
 Enter the coordinates: 2 2
 This cell is occupied! Choose another one!
 Enter the coordinates: two two
