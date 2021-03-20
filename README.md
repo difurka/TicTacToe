@@ -11,17 +11,17 @@ The first player that puts 3 X's or 3 O's in a straight line (including diagonal
 
 # Example:
 
----------\n
-|       |\n
-|       |\n
-|       |\n
----------\n
+---------</br>
+|       |</br>
+|       |</br>
+|       |</br>
+---------</br>
 Enter the coordinates: 2 2
----------\n
-|       |\n
-|   X   |\n
-|       |\n
----------\n
+---------</br>
+|       |</br>
+|   X   |</br>
+|       |</br>
+---------</br>
 Enter the coordinates: 2 2
 This cell is occupied! Choose another one!
 Enter the coordinates: two two
@@ -29,40 +29,40 @@ You should enter numbers!
 Enter the coordinates: 1 4
 Coordinates should be from 1 to 3!
 Enter the coordinates: 1 1
----------
-| O     |
-|   X   |
-|       |
----------
+---------</br>
+| O     |</br>
+|   X   |</br>
+|       |</br>
+---------</br>
 Enter the coordinates: 3 3
----------
-| O     |
-|   X   |
-|     X |
----------
+---------</br>
+| O _  _ |</br>
+| _  X  _ |</br>
+| _  _  X |</br>
+---------</br>
 Enter the coordinates: 2 1
----------
-| O     |
-| O X   |
-|     X |
----------
+---------</br>
+| O _ _ |</br>
+| O X _ |</br>
+| _ _ X |</br>
+---------</br>
 Enter the coordinates: 3 1
----------
-| O     |
-| O X   |
-| X   X |
----------
+---------</br>
+| O _ _ |</br>
+| O X _ |</br>
+| X _ X |</br>
+---------</br>
 Enter the coordinates: 2 3
----------
-| O     |
-| O X O |
-| X   X |
----------
+---------</br>
+| O _ _ |</br>
+| O X O |</br>
+| X _ X |</br>
+---------</br>
 Enter the coordinates: 3 2
----------
-| O     |
-| O X O |
-| X X X |
----------
+---------</br>
+| O _  _ |</br>
+| O X O |</br>
+| X X X |</br>
+---------</br>
 X wins
 
