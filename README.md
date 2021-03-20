@@ -12,15 +12,15 @@ The first player that puts 3 X's or 3 O's in a straight line (including diagonal
 # Example:
 
 ---------</br>
-|       |</br>
-|       |</br>
-|       |</br>
+| _ _ _ |</br>
+| _ _ _ |</br>
+| _ _ _ |</br>
 ---------</br>
 Enter the coordinates: 2 2
 ---------</br>
-|       |</br>
-|   X   |</br>
-|       |</br>
+| _ _ _ |</br>
+| _ X _ |</br>
+| _ _ _ |</br>
 ---------</br>
 Enter the coordinates: 2 2
 This cell is occupied! Choose another one!
@@ -30,9 +30,9 @@ Enter the coordinates: 1 4
 Coordinates should be from 1 to 3!
 Enter the coordinates: 1 1
 ---------</br>
-| O     |</br>
-|   X   |</br>
-|       |</br>
+| O _ _ |</br>
+| _ X _ |</br>
+| _ _ _ |</br>
 ---------</br>
 Enter the coordinates: 3 3
 ---------</br>
